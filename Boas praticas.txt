@@ -1,0 +1,15 @@
+Linter python - mostra onde precisa formatar no codigo
+
+pip intall flake8
+flake8 arquivo.py
+
+Formata codigo - formater
+
+pip install black 
+black arquivo.py
+
+Formata e classifica imports
+
+pip install isort
+isort arquivo.py
+
